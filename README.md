@@ -10,9 +10,11 @@ Write a C program to read 3 characters one by one and print the characters in a 
 4.	End the program.
 
 ## PROGRAM:
+![image](https://github.com/user-attachments/assets/758c9d6c-6126-438d-b30c-60bd1e68c7da)
 
 ## OUTPUT:
 
+![image](https://github.com/user-attachments/assets/83b0ed24-90b9-4d20-870e-acda505c4e7d)
 
 
 
@@ -35,7 +37,7 @@ Thus the program to read 3 characters one by one and print the characters in a r
 
 # EX-02- Conditional-Statements
 ## AIM:
-Write a C program to read A values and check whether A is positive number or not.
+Write a C program to read a, b value and find the smallest value using  if-else
 
 # ALGORITHM:
 1.	Declare a variable to store the input value A.
@@ -46,9 +48,11 @@ Write a C program to read A values and check whether A is positive number or not
 6.End the program.
 
 # PROGRAM:
+![image](https://github.com/user-attachments/assets/ce42f92c-d350-4f5c-ba53-b5152424e550)
 
 # OUTPUT:
 
+![image](https://github.com/user-attachments/assets/e0c9fb71-9c0e-46bf-988e-d5462820489b)
 
 
 
@@ -80,11 +84,11 @@ Write a program to find minimum between two fraction numbers using conditional o
 7.	Print the minimum value.
 
 ## PROGRAM:
+![image](https://github.com/user-attachments/assets/66ea6cf5-81bc-4365-b423-231c0fae1e46)
 
 ## OUTPUT:
 
-
-
+![image](https://github.com/user-attachments/assets/12a2e488-5c8e-40ab-a402-9c68b972a7e0)
 
 
 
@@ -100,7 +104,7 @@ Thus the program to find minimum between two fraction numbers using conditional 
 # EX-04- Using Conditional Statements
 
 ## AIM:
-Write a C program to check whether the input value is equal to 1 using simple if statement
+Write a C program to count the number of digits without using a loop
 
 ## ALGORITHM:
 1.	Declare a variable to store the input value.
@@ -111,9 +115,11 @@ Write a C program to check whether the input value is equal to 1 using simple if
 6.	End the program.
 
 ## PROGRAM:
+![image](https://github.com/user-attachments/assets/dc7d78f4-dd75-4e8d-84ae-76c671d7707f)
 
 ## OUTPUT:
 
+![image](https://github.com/user-attachments/assets/5fab43ba-5804-4a75-9dd7-7c3c12e9aeba)
 
 
 
@@ -122,7 +128,6 @@ Write a C program to check whether the input value is equal to 1 using simple if
 
 
 
-	
 
 ## RESULT:
 Thus the program to check whether the input value is equal to 1 using simple if statement has been executed successfully
@@ -147,8 +152,11 @@ c.	Else if percentage >= 36: Print “Division = Pass”
 9.	Else: Print “Division = Fail”
 10.	End
 ## PROGRAM:
+![image](https://github.com/user-attachments/assets/cc9e7a46-cecd-4d20-878e-e758efdfa63e)
+![image](https://github.com/user-attachments/assets/51c1bf0f-e948-4c8b-8924-46c3dc993256)
 
 ## OUTPUT:
+![image](https://github.com/user-attachments/assets/84574ed9-3725-457a-9ea6-8e28e5dff8d2)
 
 ## RESULT:
 The program successfully takes three subject marks, calculates the total and percentage, and correctly determines the division based on predefined grading logic.
